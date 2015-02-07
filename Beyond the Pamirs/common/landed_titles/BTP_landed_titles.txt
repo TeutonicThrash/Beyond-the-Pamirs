@@ -2,55 +2,80 @@ k_tarim = {
 	color= { 50 0 50 }
 	color2= { 255 255 255 }
 	
+	chinese = Anxi
+	
 	capital = 1438 # Kashgar
 	
 	d_kashgaria = {
 		color= { 50 0 25 }
 		color2= { 255 255 255 }
 		
+		chinese = Shule
+		
 		c_kashgar = {
 			color= { 50 0 25 }
 			color2= { 255 255 255 }
 			
+			chinese = Shule
+			
 			b_kashgar_kashgar = {
+				chinese = Shule
 			}
 			b_tumshuq_kashgar = {
+				chinese = Tumushuke
 			}
 			b_yengishiher_kashgar = {
+				chinese = Shule
 			}
 			b_payzawat_kashgar = {
+				chinese = Jiashi
 			}
 			b_artush_kashgar = {
+				chinese = Atuchi
 			}
 			b_yopurga_kashgar = {
+				chinese = Yuepuhu
 			}
 			b_sheher_kashgar = {
+				chinese = Shufu
 			}
 		}
 		c_kucha = {
 			color= { 60 10 25 }
 			color2= { 255 255 255 }
 			
+			chinese = Qiuci
+			
 			b_kucha_kucha = {
+				chinese = Qiuci
 			}
 			b_bay_kucha = {
+				chinese = Baicheng
 			}
 			b_aqsu_kucha = {
+				chinese = Akesu
 			}
 			b_kumtura_kucha = {
+				chinese = Kumutula
 			}
 			b_kizyl_kucha = {
+				chinese = Kezier
 			}
 		}
 		c_yarkant = {
 			color= { 40 0 15 }
 			color2= { 255 255 255 }
 			
+			chinese = Shache
+			
 			b_yarkant_yarkant = {
+				chinese = Shache
 			}
 			b_kargilik_yarkant = {
+				chinese = Yecheng
 			}
 			b_tashkurgan_yarkant = {
+				chinese = Tashikuergan
 			}
 		}
 	}
@@ -58,31 +83,45 @@ k_tarim = {
 		color= { 75 0 25 }
 		color2= { 255 255 255 }
 		
+		chinese = Yutian
+		
 		c_khotan = {
 			color= { 75 0 25 }
 			color2= { 255 255 255 }
 			
+			chinese = Yutian
+			
 			b_khotan_khotan = {
+				chinese = Yutian
 			}
 			b_pishan_khotan = {
+				chinese = Pishan
 			}
 			b_karakash_khotan = {
+				chinese = Moyu
 			}
 		}
 		c_niya = {
 			color= { 85 10 25 }
 			color2= { 255 255 255 }
 			
+			chinese = Minfeng
+			
 			b_niya_niya = {
+				chinese = Minfeng
 			}
 			b_keriya_niya = {
+				chinese = Yutian
 			}
 		}
 		c_qarqan = {
 			color= { 65 0 15 }
 			color2= { 255 255 255 }
 			
+			chinese = Qiemo
+			
 			b_qarqan_qarqan = {
+				chinese = Qiemo
 			}
 		}
 	}
@@ -90,31 +129,45 @@ k_tarim = {
 		color= { 100 0 25 }
 		color2= { 255 255 255 }
 		
+		chinese = Shanshan
+		
 		c_miran = {
 			color= { 100 0 25 }
 			color2= { 255 255 255 }
 			
+			chinese = Yuni
+			
 			b_miran_miran = {
+				chinese = Yuni
 			}
 			b_qakilik_miran = {
+				chinese = Ruoqiang
 			}
 		}
 		c_kroran = {
 			color= { 90 10 15 }
 			color2= { 255 255 255 }
 			
+			chinese = Loulan
+			
 			b_kroran_kroran = {
+				chinese = Loulan
 			}
 		}
 		c_karashar = {
 			color= { 90 20 35 }
 			color2= { 255 255 255 }
 			
+			chinese = Yanqi
+			
 			b_karashar_karashar = {
+				chinese = Yanqi
 			}
 			b_korla_karashar = {
+				chinese = Kuerle
 			}
 			b_bugur_karashar = {
+				chinese = Luntai
 			}
 		}
 	}

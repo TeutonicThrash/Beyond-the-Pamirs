@@ -11,8 +11,8 @@ b_kroran_kroran = castle
 
 
 # Misc
-culture = persian
-religion = catholic
+culture = tokharian
+religion = buddhist
 
 # History
 # Can be filled when things change around the province

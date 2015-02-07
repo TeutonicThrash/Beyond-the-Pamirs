@@ -12,8 +12,8 @@ b_keriya_niya = city
 
 
 # Misc
-culture = persian
-religion = catholic
+culture = tokharian
+religion = buddhist
 
 # History
 # Can be filled when things change around the province

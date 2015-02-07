@@ -16,8 +16,8 @@ b_sheher_kashgar = castle
 
 
 # Misc
-culture = persian
-religion = catholic
+culture = tokharian
+religion = buddhist
 
 # History
 # Can be filled when things change around the province

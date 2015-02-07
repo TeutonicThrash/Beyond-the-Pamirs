@@ -15,8 +15,8 @@ b_kizyl_kucha = temple
 
 
 # Misc
-culture = persian
-religion = catholic
+culture = tokharian
+religion = buddhist
 
 # History
 # Can be filled when things change around the province

@@ -1,0 +1,302 @@
+serindian = {
+	graphical_culture = muslimgfx
+
+    khotanese = {
+        graphical_culture = persiangfx
+		second_graphical_culture = muslimgfx
+        color = { 0.4 0.2 0.75  }
+        
+        male_names = {
+            Alysanna Arsa Aryamgula Asi Baga Bahudhiva Bamdaka Bhadra Bradaysaa Brika Capastaka Ceguti Chika Daisai Dharma Dum Dzatsi Gostana Gulai Harka 
+			Haskadatta Huyi Hvam Hvarda Hvardamaya Hvimdu Ikam Irasamga Jabgu Jajahasa Kamnai Kayam Kharusa Khina Khuradatta Khvarnarse Kimashana Kimashani 
+			Kimatcuna Kirtti Kriti Kunala Kushtana Mamatti Manohara Murlimin Naganpaka Nipandaka Padatcaina Pakyau Phimduka Presamdha Punarrjam Punekula 
+			Purgula Raghu Samgai Samgaka Samgalaka Sangrama Sayausa Sham Shambhava Shikshananda Shinganca Shiresala Shirvamdai Shribhadra Shtrugize Shudamgula S
+			hura Sidaka Sihya Siladharma Simhyi Sthavira Sudarrjam Sudhana Sumauna Sumtharaka Tayasham Tcusyau Tcu?ttehi Vadhaga Vagiti Vaham Vahana 
+			Vardhana Varman Vasudeva Vidakai Vidaram Vijita Vijitasimha Vikrama Virsha Visaram Vishirapumna Visma Ysambasta Zambasta
+        }
+        female_names = {
+            Alsamgya Alyonj Armaiti Dharmadasi Khivyaina Maya Nanda Nirmala Praniyata Safali Shandramata Shri Tisyarakshita Vimala Vimalaprabha Yavalac
+        }
+
+        from_dynasty_prefix = "nava "
+        male_patronym = "puri "
+        female_patronym = "duda "
+
+        modifier = religious_and_culture_tolerant_culture
+    }
+
+    tokharian = {
+        graphical_culture = persiangfx
+		second_graphical_culture = muslimgfx
+        color = { 0.75 0.45 0.95  }
+        
+        male_names = {
+            Acila Acokisgiya Acufiaya Acuiiiya Acuni Acuniya Agisala Alyaya Amgoka Amguvaka Amkvaga Amkvage Amtgiya Amti Amto Anamdasena Anandavarman Angi 
+			Anugaya Apcula Apemna Apgaya Apge Apgeya Apigo Apmya Apniya Apta Aputa Aralyi Arcaka Ardeshir_Ardeshir Ardharasa Argi Argiceya Arispa Arjuna 
+			Arselis Arsina Aryasa Asamma Asan Asdhaya Asena Asham Asoga Asuraga Athama Augala Avana Aya Ayila Azuraka Bagusaina Balasena Balasura Balavama 
+			Bhagarka Bhagasena Bhagusena Bharsavadhi Bhasdha Bhatiga Bhatisama Bhatra Bhimasena Bhoti Bimmasena Bimna Brahmi Buddhacinga Buddhaisra Buddhatala 
+			Budhaghosa Budhamitra Budhanamti Budhapliarma Budharacfii Budharachi Budharachida Budhavama Budhaya Budhila Budhosa Bushi Bushibi Caclota Cacuka 
+			Cadhi Cadhiya Cadota Cagusena Cakasa Cakla Cakola Caku Cakurata Cakuraya Cakuvala Cakvala Calmadana Calmasa Camaga Camaka Camca Camja Campe 
+			Camtgala Canaga Caneya Cangeya Capeya Capnuneya Capyana Caru Caruveta Casgeya Casmina Cataraga Cataraka Catata Cateya Catgila Catisa Catmage Cato 
+			Catugeya Caule Cetrakirti Cgito Chakir Chhu Cigha Cigita Cikimto Cimaga Cimaka Cimga Cimge Cimgse Cimnaphara Cimola Cinama Cinapliara Cinasa 
+			Cinasena Cinika Cinyasa Cipitga Citughi Cmaga Codiru Codistri Conakara Cramaena Cugapa Cupoga Cuvalayina Dadavala Dajapala Danutreya Darova Daruge 
+			Devaputra Dhaci Dhaffiadara Dhafhapala Dhagiya Dhalnapriya Dhalnena Dhamaja Dhamakama Dhamalada Dhamamitra Dhamapala Dhamapri Dhamapriya Dhamasa 
+			Dhamasena Dhamasira Dhamasretha Dhameca Dhamila Dhammaramna Dhamnapala Dhamnila Dhapaya Dharma Dharmapriya Dharmaraksha Dhraka Dmusvamta Dryaehi 
+			Gamasena Gamca Gapika Gara Garaspa Gersivas Girmitra Goboziko Govadara Grananaprema Grasdha Gronasena Gronga Grumbat Heraus Hormazd_Hormazd 
+			Huvishka Jarge Jayasa Jebhatra Jepriya Jeyabhatra Jeyaka Jhanacamdre Jihmaya Jimoya Jitugha Jivadeya Jivaka Jivamitra Jivasama Jnanasene Kacana 
+			Kacano Kaci Kadphises Kake Kakeya Kala Kalasdha Kalu Kalyanadhama Kalyanakarimitra Kalyigeya Kamaya Kamcgeya Kamci Kamciya Kame Kamjaka Kamjiya 
+			Kamki Kamkuca Kanasaga Kandik Kane Kanika Kanishka Kapge Kapgeya Kapota Kapotae Kapumca Karamtsa Kararntsa Kartsa Katge Katila Kaucasshe Kayamdaga 
+			Kecana Keniga Kenika Keyumars Khara Khingila Khosa Kidara Kilyage Kilyagi Kilyagiya Kilyama Kipunada Kirteya Kirti Kirtisama Klemjiya Kogitasasa 
+			Koiiaya Kolamte Kolasi Koleta Kolgeya Kolyisa Kompala Koneta Kosgashka Kranaya Kreya Kriti Kroae Krunbin Ktesana Kua Kuamca Kuber Kude Kuiiita 
+			Kujula Kukita Kulavardhana Kulbhu Kuleya Kuluca Kumarajiva Kumdho Kumpara Kumsena Kumtsena Kunala Kungas Kungeya Kunita Kupsimta Kupsuda Kupsuta 
+			Kurage Kurageya Kusamta Kusanasena Kustanagga Kusulaka Kutaga Kutgeya Kutre Kutreya Kuuna Kuunge Kuvaya Kuvayici Kuvifieya Kuvineya Kvinaga 
+			Kyutseya Lakunagita Lala Lampurta Larishka Larsu Latsangi Layimmaka Laza Ldasa Lepata Lgipava Liaka Lipatga Livarazma Lokaksema Lokakshema 
+			Lugaya Luhrasp Lustu Luthu Lyimgaya Lyimge Lyimimna Lyimo Lyimsu Lyipama Lyipamma Lyipana Lyipatga Lyipe Lyipeya Lyipta Lyivrasma Lyupe 
+			Mahagiri Mahiri Mahiriya Mairi Makasa Maltsuta Mangeya Manigeya Manigi Marega Masaga Masdhige Mayiri Meghima Mendre Metroma Micgae Micorca 
+			Mihirakula Mitrapala Mitro Mochabudhi Mochakama Mochapri Mochapriya Mochasena Mogata Moge Mogecika Mogeya Mogi Mogiya Molyina Mosdhaya Motega 
+			Moteka Motge Mudhaiitsa Muldeya Multeya Murunda Mutrasra Mutreya Namarazma Namata Namdasena Namdhaka Nammasura Namsuka Namtiga Namtipala Napugi 
+			Narasaka Naravahanadatta Narsita Nasova Nastimta Natasrrmi Navote Nimeya Nyanaviri Oga Ogaca Ogiya Onugi Opave Opge Opgeya Opimta Opuge Pabis 
+			Pacgoyae Pagina Pago Pakhi Pakusena Pakuva Pakuvaya Pakvaya Palge Palnamto Palugeya Pamcama Pamcatva Pamcimna Pamcina Panagara Parneya Parpana 
+			Parsu Parsuge Parvata Pataya Patika Patraya Payina Peco Pepiya Pepriya Peroz_Peroz Pgeca Pgena Pgeya Pgi Pgina Pgita Pgiya Pgoco Pgu Phaklu 
+			Phamaja Phapaya Phuinaseva Phumaseva Phuvasena Picga Pigita Pite Piteca Piteya Pitga Pitseya Plata Platga Pleya Pogana Ponicga Ponigana Porkota 
+			Portsaya Posarsa Priska Priyapata Priyaratna Priyasri Priyavada Priyavaga Priyosa Prusdhaya Pugo Pultsaya Pumfiabala Pumfiadeva Pumfiasena 
+			Pumiiasena Pumnabala Pumnavamta Pumnavati Pumnyabala Pumnyasa Punamo Purnabala Purnadana Purnasa Purnasena Purnnyabala Pursavara Purzavara Puse 
+			Pusgari Racgeya Rahulatga Ramaka Ramastso Ramatsoga Ramsotsa Rasena Raspara Rasvara Rathapala Ricikga Ricilkga Ridhasena Ripti Rohana Rokitsi 
+			Ronaprema Ropgeya Rtveladze Rutra Rutrapala Rutrasena Rutraya Sa-Nu Saca Sacha Sadarsana Sadaskana Sagamovi Sagamoya Sagana Sagapeya Sagima 
+			Sagimoya Sakha Sakhusa Salanavira Salar Salueya Saluveta Saluviya Salve Salveta Samajha Samamnera Samasena Sambhava Samca Sameka Samgaparana 
+			Samgarachi Samgaratha Samgasira Samgasri Samgha Samghabudhi Samghadharima Samghaparana Samghapriya Samgharachi Samgharaclii Samghasena Samghila 
+			Samghosa Samluve Sammapri Sammarya Samngo Samogata Sanab Sanaga Sapalbiz Sapuga Saraspa Sarivara Sarmagarachiya Sarngarama Sarpe Sarpiga Saru 
+			Sarvasrre Sarvatrata Sarviga Sekla Semniga Seraka Sevasena Sgasi Shahanshahi Shahi Shaka Sictnaya Sigayita Signaya Silaprabha Silaprava Sira 
+			Sirasa Sirmitra Siru Sirzata Siyavush Smati Socara Somcaka Somjaka Sotaya Sotuge Spaktanik Spalyaya Spirta Spyi-pri Srasdha Srimitra Sriste 
+			Srivamma Srustinga Sruthe Sucama Sucamma Sugi Sugika Sugita Sugiya Sugnuta Suguta Suhavati Sujada Sujata Sukmana Sumadata Sumata Sunamta Sundara 
+			Suryamitra Sutahar Suthu Suvarnamasuga Suvarnapala Suvaya Suyama Svaka Svaneya Svarasena Svarnabala Svaya Tagira Tagu Tajaka Takra Takto Tamaspa 
+			Tamcano Tamcgeya Tameya Tami Tamjaka Tatiga Tgaca Tiraphara Tirapiiara Titsa Togaja Tolayana Tomgraka Toramana Tryaclii Tryaehi Tsaga Tsagirsta 
+			Tsaroka Tsgatsi Tsimava Tsimaya Tsina Tsomgo Tsordhoe Tsugenamma Tsugesila Tsugesla Tsugiya Tumpala Tusana Ucadhina Ugra Upasena Upateyu Uvasena 
+			Uyage Vahana Vajesa Vammasula Vamto Vamtuavana Vanamato Vanamkha Vapika Vapo Varhran Varpa Varpe Varpeya Vasishka Vaskushana Vasmana Vasudeva Vato 
+			Vekumjiya Vemasena Vespasi Vidhura Viharavala Vijaya-Bala Vijaya-Dharma Vijaya-Jaya Vijaya-Kirti Vijaya-Sambhava Vijaya-Samgrama Vijaya-Sastra 
+			Vijaya-Simha Vijaya-Sura Vijaya-Vahana Vijaya-Vikrama Vijaya-Virya Vima Vinayaditya Vishtapsi Vua Vugaca Vugeya Vugica Vugina Vuginga Vugto Vukimna
+			Vukimtga Vukto Vumeya Vurdhiya Vuru Vusmeka Vutsava Vyarivala Winanne Wrauske Yagpu YanaSrimitra Yapgu Yasala Yehu-La Yen Yilaga Yili Yipicga 
+			Yipiya Yirumdhina Yitaka Yogasena Yonge Yonu Ype Yudhishthira Zagimoya
+		}
+        female_names = {
+            Apisae Argiyotgisaae Atamsiyae Cakuvaae Camasriae Camavati Camoae Camtamnoae Camtroae Catisae Catroae Cimikae Cinasyaniyae Cinga Cukapae 
+			Dhamasriae Dirsateyae Kacaka Kaciyae Kamcgoae Koloae Konuma Konumae Koparsaniae Kosenae Kosenaya Kuti Laroae Lyimisoae Lyipaae Mumtritsae 
+			Namilgaae Namisyanae Namsanae Paluvisae Pgisa Priyaniae Pumfiavatiyae Pumnalazaae Ramasri Ramasriae Ramatiae Ramomtiae Ramotiyae Saganapaae 
+			Saluvaae Saluve Samapriae Samoae Sariyae Sarpina Sarpinae Sarvasriae Simasriae Smagasae Smitsae Somjagrrae Somjasrryae Sriyavamtiae Sugisae 
+			Sugnumae Supriyae Suvisae Tamasyanae Tamcina Tilutamaae Tsimnaae Tsinae Visaliae Vuruvisaae
+		}
+
+        from_dynasty_prefix = "auz "
+
+        modifier = religious_and_culture_tolerant_culture
+    }
+
+    uighur = {
+
+       graphical_culture = mongolgfx
+	   second_graphical_culture = muslimgfx
+
+       color = { 0.45 0.05 0.80 }
+
+		male_names = {
+			Adigh Afaq Arslan Art Bagha Barchuq Bars Bayanchur Bazh Bilge Bogu Boyla Buqa Buzurb Bögü Böra Chawar Dost Elterish Eretna 
+			Erkin Hushu Ilteber Ishana Juluobo Kebek Kulug Kurebir Kutlug Kül-Erkin Ormïzt Palta Pan-kül Peilo Pojuan Pusa Qaplan Qara Qasar Setiwaldi 
+			Sheto Shingqur Süpürga Tardu Tatatunga Tay Tegin Tekin Tengri Tiliwaldi Toghril Tuchiachi Tumitu Tun Tunga Turdi Turghan Tursun Tusun Tutuk 
+			Tömür Wuhe Yabgu Öge
+		}
+
+		female_names = {
+			Altun Aykhan Chechak Ghuncha Gül Hawa-gül Hidligh Ibadat-gül Ilbilge Iparhan Khanum Kunduz Ninguo Pati-gül Po Ruqiya Yultuz Zuleiha Zuwida
+		}
+
+        modifier = religious_and_culture_tolerant_culture
+    }
+
+	soghdian = {
+		graphical_culture = persiangfx
+		second_graphical_culture = muslimgfx
+		color = { 0.2 0.05 0.3 }
+		
+		male_names = {
+			Abarzi Abu_Abu Akhurmaztakk Akhushfarn_Akhushfarn Anghatnaw Anghatspadh Anushirvan_Anushirvan Ardavan_Ardavan Ardeshir_Ardeshir Armatsach Arsach Artikhuvandakh 
+			Artivan_Ardavan Aspandhat Asthath Astken Aurang_Aurang Avyaman-yan_Avyaman-yan Avyaman_Avyaman Avyamanch_Avyamanch Avyamanvandak Babak_Babak Bahram_Bahram 
+			Banda Barak_Barak Bharkhuman_Bharkhuman Bhurz_Bhurz Bidun Bonyat Buddhadasa Chakar_Chakar Chakhapak Chakhren_Chakhren Cher_Cher Chetvandak Dariush_Darius 
+			Devadasa Dewashtich_Dewashtich Dhakh Dhruwaspvandak Dizo’i Esfandiar_Esfandiar Eskander_Alexander Ewakhsh Faramarz_Faramarz Farhad_Farhad Farn Farnaghat 
+			Farnch Farnkhund Farroukh_Farroukh Farrukhzad_Farrukhzad Farzad_Farzad Fatmiwach Ferdows_Ferdows Fereedun_Feridun Frikhwataw Ghawtus Ghobad_Ghobad 
+			Ghoshfarn Ghotamsach Godarz_Godarz Goshtasb_Goshtasb Hazarasp_Hazarasp Hormazd_Hormazd Hormoz_Hormoz Ibrahim_Abraham Induk Irkin_Irkin Ishaq_Isaac Jamshid_Jamshid Jiamut 
+			Jimatvande_Jimatvande Kana Kanak_Kanak Kanakk Karakana Kartir Karzhtik Kavoos_Kavoos Kaway Kharstrang Khosrow_Khosrow Khun Khurshid_Khurshid Khwadhawanakk 
+			Khwarmew Khwasaw Khwasawch Kund Kundakk Kurush_Cyrus Kushan Kushanakanak Mak Makhak_Makhak Marti Marzuban_Marzuban Maymarghch Methakan Mew Miren 
+			Muqanna Nanai Nanaidhvar Nanaifarn_Nanaifarn Nanaikhsay Nanaithvar_Nanaydvar Nanaizanch Nanayakk Nanevante_Nanevante Narisaf Narshakhi Nawchirth 
+			Nibothak_Nibothak Nipak_Nipak Nithan_Nithan Ot-tegin_Ot-tegin Papakk Parsak Parviz_Parviz Pashang_Pashang Patrodhan Pekako Peroz_Peroz Pesakk 
+			Pujman_Pujman Qotayba Qishiq_Qishiq Ramtish_Ramtish Rashdhes Razmwanwan Resan Rewdhvar Rokhshan_Rokhshan Rostam_Rostam Rutha Sagharak Sas Sasan Satasp 
+			Sesh_Sesh Shahbaz_Shahbaz Shahin_Shahin Shahrokh_Sharokh Shans Shapur_Shapur Shaw_Shaw Shennu_Shennu Shirch Sina_Sina Skan Spadh Spadhkharsh Srawakk 
+			Stayidh Suryakk Tahmasb_Tahmasb Takhsich Takhsichvandak Takut Tarkhun_Tarkhun Taw Tir Tishtrya_Tishtrya Tishvandak Togshada Turghar_Turghar Ukhushukan_Ukhushukan 
+			Urak_Urak Vagh Vaghrew Vahhab_Vahhab Varshasb_Varshasb Varzak_Varzak Varzirak Vishtasb_Vishtasb Viyus_Viyus Vuvva Wakhunam Wakhushakk Wakhushu Wanenak 
+			Wankaway Wankhanak_Wankhanak Wanrazmak Wanwans Wishaghn Xeykhosrow_Keykhosrow Y’n_Y’n Zand_Zand Zartosht_Zartosht Zymt_Zymt
+		}
+		female_names = {
+			Aghatzak Anakhit Arghavan_Arghavan Banafsheh_Banafsheh Chat_Chat Chatis Chet Chinanch Darya_Darya Funa_Funa Furuzan_Furuzan Ghamze_Ghamze Ghoncheh_Ghoncheh 
+			Golbahar_Golbahar Golshan_Golshan Khansch Makh Mah_Mah Mahtab_Mahtab Miwnay Nana_Nana Nanai_Nanai Nanaidhat Navvaba_Navvaba Nazgol_Nazgol 
+			Nazilla_Nazilla Parvaneh_Parvaneh Parvin_Parvin Ranisa Roxana_Roxana Sanakhram Shahrzad_Shahrzad Shahzadeh_Shahzadeh Shayn Shirin_Shirin Touran_Touran 
+			Yasaman_Yasaman Yena_Yena
+		}
+
+		from_dynasty_prefix = "m "
+		male_patronym = "zk "
+		female_patronym = "zk "
+
+		modifier = religious_and_culture_tolerant_culture
+	}	
+	
+}
+
+himalayan = {
+	graphical_culture = mongolgfx
+
+	tibetan = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.9 0.9 0.0 }
+		
+		used_for_random = no
+		
+		male_names = {
+			Akar Anil Assam Boshay Ceba Cepla Cetan Champo Chodrak Choejor Chogyal Chophel Cimba Dache Dachen Daivika Dampa Dawa Dechen Dedan Denpa Denpo
+			Dhargey Dorje Dorjee Garkan Gephel Goba Gyaltsen Gyaltso Gyalwa Jalus Jampa Jampo Jangbu Jetsan Jigme Jinpa Jungney Kaba Kalden Kalsang Kamala
+			Karma Kasa Ketu Khadroma Khalama Khandro Kipu Kitsi Kona Kunchen Kundun Lha-mo Lhak-pa Lhundup Lobsang Michewa Mida Mingma Nam-kha Nawang Ngawang
+			Ngodup Nima Norbu Nuba Nyima Pabu Palden Pasang Pemba Phuntsok Popo Poso Rabten Rinchen Rinzen Samdhup Sangye Sashi Seba Senge Skamar Somba Sonam
+			Tashi Temba Tenzin Tenzing Thekchen Thokmay Thubten Torma Tsering Tseten Tsewang Wangchuk Wangdak Wangdue Yeshe Yongten Yonten Zapa Zenji Zigsa
+			Zonpa Zopa 
+		}
+		female_names = {
+			Akar Amala Amrita Assam Bhasundara Boshay Brag-srin-mo Ceba Cepla Chesa Chewa Chime Choden Chodrak Chodren Choejor Chomden Chomo-Lung-Ma Chophel
+			Cimba Dawa Dechen Dhargey Diki Dohna Dolkar Dolma Dorjne-Naljorma Ekadzati Garkan Gawa Gewa Gokarmo Gu-Lang Gyaltsen Gyalwa Hariti Indira Jalus
+			Jampa Jampo Jamyang Jangmu Je-tsun Jinpa Jungney Kaba Kalsang Kamala Karma Kasa Ketu Keyuri Khadroma Khalama Khandro Khon-Ma Kipu Kitsi Kona Kunchen
+			Kurukulla Lasya Lha-mi Lha-mo Lhak-pa Lhamu Lhundup Michewa Mida Nam-kha Nele Ngawang Ngodup Nguntre Nima Ninguerre Nuba Nyima Opame Pabu Palden
+			Pasang Pema Pemala Penden Phuntsok Popo Poso Prajnaparamita Rabten Rinchen Rinzen Samdhup Sangmu Sangs-rygas-mkhá Sangye Sashi Seba Sengdroma
+			Sengemo Sgeg-mo-ma Shenden Skamar Somba Sonam Tara Tashi Temba Tenzin Tenzing Thekchen Tho-og Thokmay Thubten Torma Tsering Tseten Tsewang "Ui Tango"
+			Wangchuk Wangdak Wangdue Yangchen Yongten Yum-chen-mo Zapa Zas-ster-ma-dmar-mo Zenji Zigsa Zonpa Zopa 
+		}
+
+		prefix = no
+
+		modifier = default_culture_modifier
+	}
+	
+}
+
+sinic = { # EAST ASIAN in-game
+	graphical_culture = mongolgfx
+
+    chinese = {
+
+		graphical_culture = mongolgfx
+
+		color = { 0.99 0.99 0.01 }
+	   
+		used_for_random = no
+
+		male_names = {
+			Anshi Bai Baiqi Baisha Baiwen Bao Baoheng Baorong Baoxu Bei Bi Bian Biao Bida Bin Bing Bo Bogong Bogui Boqing Bu Can Caolu Chang Changben Changyuan 
+			Chao Che Chen Cheng Chengda Chengxun Chengyou Chong Chonggao Chonggui Chongji Chongjin Chongmei Chongrui Chongwang Chongxin Chongxuan Chongyang Chongyi 
+			Chongying Chongyu Chuanliao Chuansu Chun Chundao Chuyun Ci Cishan Ciwang Cong Congdang Conghou Conghui Congjia Congke Congqian Congrang Congrong 
+			Congshen Congyi Congyu Cui Cunxu Da Dao Daolong Dashen Dexing Deyuan Dezhao Di Dong Duo Fang Fangde Fei Fen Fengliu Fu Fude Gang Gao Gaochi Gaosui 
+			Gaoxi Gaoxu Gong Gongfu Gongmao Gonzao Gou Guan Guang Guangbi Guangda Guangmei Guangqi Guangyi Gui Guitu Hao He Heng Hongbi Hongcao Hongchang Hongchu 
+			Hongdao Hongdu Hongfan Honggao Hongji Hongjian Hongmiao Hongwei Hongwo Hongxi Hongxin Hongxuan Hongya Hongyang Hongyi Hongyin Hongyou Hongze Hongzhao 
+			Hongzheng Hongzhuan Hongzong Hongzun Hongzuo Hong’an Honzahn Houcong Houwei Houzhao Houzhu Hu Hua Huaide Huan Huang Hui Huizu Ji Jian Jianchun Jianfeng 
+			Jianji Jianjun Jianlin Jianpei Jianshen Jianshi Jianshu Jianze Jianzhi Jichan Jichong Jie Jigong Jiji Jiming Jin Jing Jingda Jingdi Jinghua Jingqian 
+			Jingsui Jingtang Jingtong Jingxuan Jiong Jipeng Jirong Jisong Jitao Jitong Jiushao Jixing Jiyan Jiyao Jiyu Jiyuan Jizong Ji’en Jun Junshi Juren Juzheng 
+			Kan Keda Kefu Kerang Keyong Kuan Kuangji Kuangmei Kuangyi Kuangyin Kuangzan Kui Kun Kuo Lian Liang Lin Linghua Lingwu Lishan Liu Longyang Lu Luan Lun 
+			Luzhi Mai Maozhen Meng Mengqi Mengyan Mi Min Mingcheng Minzhai Minzhong Miyuan Mo Naiyou Nan Pian Pu Qi Qian Qiaoxin Qilao Qingge Qingtian Qiu Qiyu Qu 
+			Quan Quanzhong Qubo Que Rangneng Rencao Rende Renyi Renyu Renzan Renzhi Rong Ruoshui Shao Shaoyong Sheng Shenquan Shenzhi Shi Shifan Shihuang Shinan 
+			Shiqi Shizhong Shou Shouli Shu Shuang Shunfu Sicheng Sidao Side Siqi Sixun Song Songnian Songrui Su Sui Sun Taiyi Tan Tang Tao Ti Tian Tianfu Tianxiang 
+			Tinggui Tingjian Tingmei Tingxiang Tingxiu Tingyin Tingzhi Tong Tuan Tuozhou Weixian Weiyo Weiyong Weizhong Wen Wengui Wenji Wenkui Wenkun Wenlong 
+			Wenwei Wo Wuyi Xi Xian Xiang Xianzhang Xichong Xifan Xigao Xiguan Xiguang Xijun Xilang Xin Xineng Xinfu Xingmi Xingmin Xiongying Xisheng Xiu Xiufu 
+			Xiwang Xiyin Xizhan Xizhao Xizhen Xizhi Xi’e Xu Xuan Xun Yan Yanbao Yanbin Yanchang Yanchen Yanfeng Yangming Yangui Yanhan Yanhui Yanjun Yanmei Yanruo 
+			Yanshou Yanwang Yanwu Yanxi Yanzhang Yanzhao Yanzheng Yanzong Yaoshu Ye Yi Yifan Yige Yiju Yin Ying Yinggong Yingxu Yiqing Yiye Yiyong Yizhong Yong 
+			Yongde You Youbin Yougong Yougui Youheng Youhui Youji Youkai Youlun Youqi Youqing Yourang Youshu Youshun Youtang Youwen Youyong Youyu Youyuan Youyun 
+			Youzhang Youzhen Youzi Yu Yuan Yuancheng Yuandai Yuanfen Yuang Yuangjie Yuanliao Yuanming Yuanpu Yuanwo Yuanxi Yuanxiang Yuanyan Yuanyi Yuanzhang 
+			Yuanzuo Yue Yun Yunching Yunjian Yunrang Yuntong Yunwen Yunxi Yuqun Yurui Zaicheng Zanhua Zao Ze Zeduan Zengbo Zengshou Zhan Zhangang Zhangyuan Zhanji 
+			Zhankai Zhanshan Zhanxun Zhanyan Zhanyin Zhanyong Zhanyu Zhaodu Zhaowei Zhaozuo Zhen Zhengchang Zhengyan Zhewei Zhi Zhigao Zhijin Zhixiang Zhiyuan 
+			Zhong Zhongde Zhongji Zhongqing Zhongxuan Zhongyan Zhu Zhuan Zi Zicheng Zisheng Zonghui Zongjin Zongquan Zongrang Zongxun Zunwu Zuo Zuqian
+		}
+
+		female_names = {
+			Ancheng Anhua Anqing Anyang Baoqing Cailuan Chadan Chang Changde Changle Changning Changtai Changyuan Chen Chonge Chonghua Chongning Chouzhen Chu 
+			Chuiping Chuniang Chunjie Chun’an Cuibing Cuiluan Cuiping Daming Daoqing Daosheng Da’er Dehui Deng Deqing Derong Deyuan Dezhen De’an Diaochan Diaogei 
+			Doupo Du Duanduan E Fan Fansu Fanxi Feiyan Fengcheng Fengjie Fomu Fonu Fu Fujin Fuqing Guang Guangde Gui Gun Gu’an Hanshan Hanyue Hongfu Honghong 
+			Hong’er Hua Huaiqing Huarui Hui Huiming Huiyuan Jialian Jianchang Jiangdu Jiashan Jiaxiang Jiaxing Jiehao Jieyu Jinfeng Jing Jingchong Jinglan Jingshun 
+			Jinhua Jinlian Jinluan Jiongying Kui Lan Leping Lian Lin’an Longqing Lu Luanluan Lun Mei Meifang Meiping Meizi Miaofeng Miaoniang Miaoqu Miaoyin Mu 
+			Mulan Mushun Nankang Nanping Neiming Ning Panpan Pingyang Pingyuan Pukang Puning Pu’an Qi Qian Qing Qinghe Qingnu Qingzhao Qiongying Qixiang Ranmei 
+			Renhe Renshou Rong Roujia Runing Ruozhao Ruyang Ruyi Saijin Sai’er Shang Shangrao Shen Sheng Shengtang Shiguang Shishi Shouchun Shuduan Shun Shunde 
+			Shuzen Shuzhen Shuzheng Su Suizhen Taihe Taikang Tang Tangqiao Tangxing Tao Taotao Tongchang Wa Wan’er Wenchen Wuniang Xian Xiangjun Xiangling Xianning 
+			Xianxian Xianyou Xiaochengjing Xiaoman Xiaoshu Xiaowan Xiaoxiao Xindu Xingguo Xinxing Xinyue Xin’an Xiumei Xiurong Xi’er Xu Xuanji Xueying Xunyang Yang 
+			Yanping Yanshu Yanxiu Yao Yaoniang Yaose Yaoying Ye Yi Yichang Yihua Yihui Yilun Yin Yincheng Yingying Yinshen Yinzhe Yishun Yixing Yi’an Yongkang 
+			Yongming Yongning Yongping Yongqing Yongshou Yongxing Yong’an Youcheng Yu Yuantong Yuanxiao Yuanzhen Yue Yuhuan Yulien Yuluo Yuniang Yunying Yushan 
+			Zhangzeng Zhao Zhaobi Zhaoqi Zhaoyi Zhaoyun Zhen Zhending Zhenning Zhenyi Zhen’er Zhouchen Zhu Zhunhua Zhuodiu Zhuzhu Zihe Ziye Ziyi
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+		
+		prefix = no
+
+		modifier = default_culture_modifier
+    }
+	
+	khitan = {
+
+		graphical_culture = mongolgfx
+
+		color = { 0.95 0.95 0.1 }
+		
+		used_for_random = no
+
+		male_names = {
+		Abaoji Abo Abugu Aguo Aguzhi Ala Anquan Anshi Asi Baiqi Baiwen Baiya Bei Bi Bida Biegute Bingchang Bogong Boqing Caolu Chala Changyuan Changyun Cheng 
+		Chengjun Chixin Chonggui Chongrong Chucai Chun Chunyou Chuzhi Ci Cite Ciwang Dali Dao Daoyin Dashi Deguang Deming Dewang Deyuan Di Diela Dilie Dilu 
+		Dorlipun Du Duolubu Duoluo Duomi Fangde Fuguzhi Fuliu Fuyi Gan Gang Gaoligu Gongmao Gongzao Gou’er Guan Guang Guangbi Gui Guochang Guozhe Hao He 
+		Hechen Hongben Hongdao Hongfan Hongji Hongyong Hongzhen Hougu Huaijie Huaixiu Hudujin Hui Huiyuan Hunhe Jie Jin Jing Jingtang Jinzhong Jiqian Jiuli 
+		Jiushao Jiyuan Ji’en Jue Jun Junshi Kaigu Kailuo Keda Keling Kenagan Ketuyu Keyong Kuan Kuge Kui Kuo Liangzuo Lihu Lin Linggong Lishan Liuge Loguo 
+		Longqing Longxian Longxu Longyou Louguo Lu Luju Luzhi Mada Mai Maozhen Min Ming Mingyi Mohui Naihe Nieli Nielieji Noulisi Nu Paolu Pedie Pusuwan Qi 
+		Qianshun Qinde Quchulu Quju Qulie Qulu Renxian Renxiao Ruan Sage Salade Saladi Sha Shao Sheng Shenmi Shi Shihuo Shilu Shinan Shizhong Shu Shulu Si 
+		Sicheng Sidao Side Song Songrui Suogu Tabuyan Tadun Tai Taishan Taishi Taiyi Temei Tianxiang Tingjian Tong Tuguci Tuyu Waihe Wangrong Wansi Wanxin Wei 
+		Wen Wenshunu Wenzao Wolila Wotela Wuge Wujun Wumo Wuyi Wuyu Wuzheng Xi Xian Xiangwen Xiaozheng Xiaozhong Xiazhen Xidi Xinie Xiu Xiuge Xi’er Xunning 
+		Yali Yan Yangxi Yanxi Yanzhang Yaogu Yaoshinu Yi Yilie Yiliu Yixinning Yongning Yougui Youqing Youyu Yu Yuanhao Yunching Yundeshi Yuyu Zanhua Zao 
+		Zeduan Zengbo Zhangyuan Zhaosan Zhen Zhengchang Zhengyan Zhibuwu Zhigu Zhilugu Zhixian Zhiyuan Zhong Zhonggong Zhongji Zhongxuan Zhongyan Zhongyuan 
+		Zhulie Zongjiao Zongzhen Zuli Zunxu Zuqian
+		}
+
+		female_names = {
+		Ai Ankang Bage Bai Bohai Boshi Cao Chadan Chang Changshou Changshounu Chen Chonghua Chu Chunqin Chuo Cui Cuiba Cuiluan Cuiping Da Daopo Daosheng Deng 
+		Deyao Dezhen Dianni Dong Duan Emei Feishan Fengcheng Fu Fujin Gao Ge Guang Guanyinnu Guo Han Hanyue He Hongdu Hongfu Honghong Hou Hu Hua Huang Huarui 
+		Huiming Jianchang Jiang Jin Jinfeng Jinluan Jiuge Lanling Li Liang Liao Liu Luanluan Ma Meizhu Meizi Meng Miaoniang Miaoyin Nalan Neiming Noujin 
+		Nuoujin Panpan Ping Pucha Puci Puning Pusage Pusuwan Puwei Qian Qiao Qin Qinai Qingnu Qingzhao Qungu Ren Renyi Ruishun Ruizhi Saige She Shen Shengtang 
+		Shi Shige Shiguang Shishi Shizhen Shuge Shuiqiu Shuogu Shuzen Shuzheng Siao Song Su Sun Tabuyan Tabuye Taige Taihe Tangqiao Tao Taoge Tian Tong Tudan 
+		Wa Wang Wan’er Wenji Wu Wulinda Wuniang Xia Xiao Xiaoming Xiaoxiao Xingge Xingguo Xinyue Xu Xuanji Xuanyi Xueying Xunyang Yan Yange Yaniang Yanmu 
+		Yanshounu Yanxiu Yaonian Yaoniang Yaoying Ye Yi Yingtian Yingying Yi’an Yongqing Yongxing Yu Yuan Yuanzhen Yue’e Yuniang Yunying Yushan Zhai Zhang 
+		Zhaoyun Zheng Zhenjian Zhong Zhou Zhu Zhuzhu Zihe Ziye
+		}
+		
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = religious_and_culture_tolerant_culture
+    }
+}

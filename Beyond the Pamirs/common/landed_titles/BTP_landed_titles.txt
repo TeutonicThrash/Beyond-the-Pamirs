@@ -1,0 +1,121 @@
+k_tarim = {
+	color= { 50 0 50 }
+	color2= { 255 255 255 }
+	
+	capital = 1438 # Kashgar
+	
+	d_kashgaria = {
+		color= { 50 0 25 }
+		color2= { 255 255 255 }
+		
+		c_kashgar = {
+			color= { 50 0 25 }
+			color2= { 255 255 255 }
+			
+			b_kashgar_kashgar = {
+			}
+			b_tumshuq_kashgar = {
+			}
+			b_yengishiher_kashgar = {
+			}
+			b_payzawat_kashgar = {
+			}
+			b_artush_kashgar = {
+			}
+			b_yopurga_kashgar = {
+			}
+			b_sheher_kashgar = {
+			}
+		}
+		c_kucha = {
+			color= { 60 10 25 }
+			color2= { 255 255 255 }
+			
+			b_kucha_kucha = {
+			}
+			b_bay_kucha = {
+			}
+			b_aqsu_kucha = {
+			}
+			b_kumtura_kucha = {
+			}
+			b_kizyl_kucha = {
+			}
+		}
+		c_yarkant = {
+			color= { 40 0 15 }
+			color2= { 255 255 255 }
+			
+			b_yarkant_yarkant = {
+			}
+			b_kargilik_yarkant = {
+			}
+			b_tashkurgan_yarkant = {
+			}
+		}
+	}
+	d_khotan = {
+		color= { 75 0 25 }
+		color2= { 255 255 255 }
+		
+		c_khotan = {
+			color= { 75 0 25 }
+			color2= { 255 255 255 }
+			
+			b_khotan_khotan = {
+			}
+			b_pishan_khotan = {
+			}
+			b_karakash_khotan = {
+			}
+		}
+		c_niya = {
+			color= { 85 10 25 }
+			color2= { 255 255 255 }
+			
+			b_niya_niya = {
+			}
+			b_keriya_niya = {
+			}
+		}
+		c_qarqan = {
+			color= { 65 0 15 }
+			color2= { 255 255 255 }
+			
+			b_qarqan_qarqan = {
+			}
+		}
+	}
+	d_kroran = {
+		color= { 100 0 25 }
+		color2= { 255 255 255 }
+		
+		c_miran = {
+			color= { 100 0 25 }
+			color2= { 255 255 255 }
+			
+			b_miran_miran = {
+			}
+			b_qakilik_miran = {
+			}
+		}
+		c_kroran = {
+			color= { 90 10 15 }
+			color2= { 255 255 255 }
+			
+			b_kroran_kroran = {
+			}
+		}
+		c_karashar = {
+			color= { 90 20 35 }
+			color2= { 255 255 255 }
+			
+			b_karashar_karashar = {
+			}
+			b_korla_karashar = {
+			}
+			b_bugur_karashar = {
+			}
+		}
+	}
+}

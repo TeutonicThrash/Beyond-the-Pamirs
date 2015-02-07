@@ -1,0 +1,23 @@
+# 1438 - Kashgar
+# County Title
+title = c_kashgar
+
+# Settlements
+max_settlements = 7
+b_kashgar_kashgar = castle
+b_tumshuq_kashgar = city
+b_yengishiher_kashgar = temple
+b_payzawat_kashgar = city
+b_artush_kashgar = temple
+b_yopurga_kashgar = city
+b_sheher_kashgar = castle
+
+# Possible baronies: (Always add a # in front of a line with these!)
+
+
+# Misc
+culture = persian
+religion = catholic
+
+# History
+# Can be filled when things change around the province

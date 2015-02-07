@@ -1,0 +1,20 @@
+# 1440 - Khotan
+# County Title
+title = c_khotan
+
+# Settlements
+max_settlements = 3
+b_khotan_khotan = castle
+b_pishan_khotan = city
+b_karakash_khotan = temple
+
+
+# Possible baronies: (Always add a # in front of a line with these!)
+
+
+# Misc
+culture = persian
+religion = catholic
+
+# History
+# Can be filled when things change around the province

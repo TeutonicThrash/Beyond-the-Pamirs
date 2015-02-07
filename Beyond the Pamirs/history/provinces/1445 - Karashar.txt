@@ -1,0 +1,20 @@
+# 1445 - Karashar
+# County Title
+title = c_karashar
+
+# Settlements
+max_settlements = 3
+b_karashar_karashar = castle
+b_korla_karashar = city
+b_bugur_karashar = temple
+
+
+# Possible baronies: (Always add a # in front of a line with these!)
+
+
+# Misc
+culture = persian
+religion = catholic
+
+# History
+# Can be filled when things change around the province

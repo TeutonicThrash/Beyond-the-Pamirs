@@ -1,3 +1,7 @@
+1220.1.1 = { # Genghis
+	holder = 125501
+	liege = e_mongol_empire
+}
 1227.12.2 = { #Chagatai Khanate
 	holder = 93062
 	liege = k_khiva

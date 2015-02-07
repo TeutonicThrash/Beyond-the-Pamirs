@@ -4,6 +4,9 @@ k_tarim = {
 	
 	chinese = Anxi
 	uighur = Dorbenshahr
+	mongol = Dorbenshahr
+	turkish = Dorbenshahr
+	karluk = Dorbenshahr
 	
 	capital = 1438 # Kashgar
 	
@@ -13,6 +16,9 @@ k_tarim = {
 		
 		chinese = Shule
 		uighur = Qeshqer
+		mongol = Qeshqer
+		turkish = Qeshqer
+		karluk = Qeshqer
 		
 		c_kashgar = {
 			color= { 50 0 25 }
@@ -20,34 +26,58 @@ k_tarim = {
 			
 			chinese = Shule
 			uighur = Qeshqer
+			mongol = Qeshqer
+			turkish = Qeshqer
+			karluk = Qeshqer
 			
 			b_kashgar_kashgar = {
 				chinese = Shule
 				uighur = Qeshqer
+				mongol = Qeshqer
+				turkish = Qeshqer
+				karluk = Qeshqer
 			}
 			b_tumshuq_kashgar = {
 				chinese = Tumushuke
 				uighur = Tumshuq
+				mongol = Tumshuq
+				turkish = Tumshuq
+				karluk = Tumshuq
 			}
 			b_yengishiher_kashgar = {
 				chinese = Shule
 				uighur = Yengisheher
+				mongol = Yengisheher
+				turkish = Yengisheher
+				karluk = Yengisheher
 			}
 			b_payzawat_kashgar = {
 				chinese = Jiashi
 				uighur = Peyzivat
+				mongol = Peyzivat
+				turkish = Peyzivat
+				karluk = Peyzivat
 			}
 			b_artush_kashgar = {
 				chinese = Atushi
 				uighur = Atush
+				mongol = Atush
+				turkish = Atush
+				karluk = Atush
 			}
 			b_yopurga_kashgar = {
 				chinese = Yuepuhu
 				uighur = Yopurgha
+				mongol = Yopurgha
+				turkish = Yopurgha
+				karluk = Yopurgha
 			}
 			b_sheher_kashgar = {
 				chinese = Shufu
 				uighur = Sheher
+				mongol = Sheher
+				turkish = Sheher
+				karluk = Sheher
 			}
 		}
 		c_kucha = {
@@ -56,26 +86,44 @@ k_tarim = {
 			
 			chinese = Qiuci
 			uighur = Kuchar
+			mongol = Kuchar
+			turkish = Kuchar
+			karluk = Kuchar
 			
 			b_kucha_kucha = {
 				chinese = Qiuci
 				uighur = Kuchar
+				mongol = Kuchar
+				turkish = Kuchar
+				karluk = Kuchar
 			}
 			b_bay_kucha = {
 				chinese = Baicheng
 				uighur = Bay
+				mongol = Bay
+				turkish = Bay
+				karluk = Bay
 			}
 			b_aqsu_kucha = {
 				chinese = Akesu
 				uighur = Aqsu
+				mongol = Aqsu
+				turkish = Aqsu
+				karluk = Aqsu
 			}
 			b_kumtura_kucha = {
 				chinese = Kumutula
 				uighur = Qumtura
+				mongol = Qumtura
+				turkish = Qumtura
+				karluk = Qumtura
 			}
 			b_kizyl_kucha = {
 				chinese = Kezier
 				uighur = Kizil
+				mongol = Kizil
+				turkish = Kizil
+				karluk = Kizil
 			}
 		}
 		c_yarkant = {
@@ -84,18 +132,30 @@ k_tarim = {
 			
 			chinese = Shache
 			uighur = Yeken
+			mongol = Yeken
+			turkish = Yeken
+			karluk = Yeken
 			
 			b_yarkant_yarkant = {
 				chinese = Shache
 				uighur = Yeken
+				mongol = Yeken
+				turkish = Yeken
+				karluk = Yeken
 			}
 			b_kargilik_yarkant = {
 				chinese = Yecheng
 				uighur = Qaghiliq
+				mongol = Qaghiliq
+				turkish = Qaghiliq
+				karluk = Qaghiliq
 			}
 			b_tashkurgan_yarkant = {
 				chinese = Tashikuergan
 				uighur = Tashqurqan
+				mongol = Tashqurqan
+				turkish = Tashqurqan
+				karluk = Tashqurqan
 			}
 		}
 	}
@@ -105,6 +165,9 @@ k_tarim = {
 		
 		chinese = Yutian
 		uighur = Hoten
+		mongol = Hoten
+		turkish = Hoten
+		karluk = Hoten
 		
 		c_khotan = {
 			color= { 75 0 25 }
@@ -112,18 +175,30 @@ k_tarim = {
 			
 			chinese = Yutian
 			uighur = Hoten
+			mongol = Hoten
+			turkish = Hoten
+			karluk = Hoten
 			
 			b_khotan_khotan = {
 				chinese = Yutian
 				uighur = Hoten
+				mongol = Hoten
+				turkish = Hoten
+				karluk = Hoten
 			}
 			b_pishan_khotan = {
 				chinese = Pishan
 				uighur = Guma
+				mongol = Guma
+				turkish = Guma
+				karluk = Guma
 			}
 			b_karakash_khotan = {
 				chinese = Moyu
 				uighur = Qaraqash
+				mongol = Qaraqash
+				turkish = Qaraqash
+				karluk = Qaraqash
 			}
 		}
 		c_niya = {
@@ -132,14 +207,23 @@ k_tarim = {
 			
 			chinese = Minfeng
 			uighur = Niye
+			mongol = Niye
+			turkish = Niye
+			karluk = Niye
 			
 			b_niya_niya = {
 				chinese = Minfeng
 				uighur = Niye
+				mongol = Niye
+				turkish = Niye
+				karluk = Niye
 			}
 			b_keriya_niya = {
 				chinese = Yutian
 				uighur = Keriye
+				mongol = Keriye
+				turkish = Keriye
+				karluk = Keriye
 			}
 		}
 		c_qarqan = {
@@ -148,10 +232,16 @@ k_tarim = {
 			
 			chinese = Qiemo
 			uighur = Cherchen
+			mongol = Cherchen
+			turkish = Cherchen
+			karluk = Cherchen
 			
 			b_qarqan_qarqan = {
 				chinese = Qiemo
 				uighur = Cherchen
+				mongol = Cherchen
+				turkish = Cherchen
+				karluk = Cherchen
 			}
 		}
 	}
@@ -161,6 +251,9 @@ k_tarim = {
 		
 		chinese = Shanshan
 		uighur = Pichan
+		mongol = Pichan
+		turkish = Pichan
+		karluk = Pichan
 		
 		c_miran = {
 			color= { 100 0 25 }
@@ -168,14 +261,23 @@ k_tarim = {
 			
 			chinese = Yuni
 			uighur = Miran
+			mongol = Miran
+			turkish = Miran
+			karluk = Miran
 			
 			b_miran_miran = {
 				chinese = Yuni
 				uighur = Miran
+				mongol = Miran
+				turkish = Miran
+				karluk = Miran
 			}
 			b_qakilik_miran = {
 				chinese = Ruoqiang
 				uighur = Chaqiliq
+				mongol = Chaqiliq
+				turkish = Chaqiliq
+				karluk = Chaqiliq
 			}
 		}
 		c_kroran = {
@@ -184,10 +286,16 @@ k_tarim = {
 			
 			chinese = Loulan
 			uighur = Kroran
+			mongol = Kroran
+			turkish = Kroran
+			karluk = Kroran
 			
 			b_kroran_kroran = {
 				chinese = Loulan
 				uighur = Kroran
+				mongol = Kroran
+				turkish = Kroran
+				karluk = Kroran
 			}
 		}
 		c_karashar = {
@@ -196,18 +304,30 @@ k_tarim = {
 			
 			chinese = Yanqi
 			uighur = Qarashahr
+			mongol = Qarashahr
+			turkish = Qarashahr
+			karluk = Qarashahr
 			
 			b_karashar_karashar = {
 				chinese = Yanqi
 				uighur = Qarashahr
+				mongol = Qarashahr
+				turkish = Qarashahr
+				karluk = Qarashahr
 			}
 			b_korla_karashar = {
 				chinese = Kuerle
 				uighur = Korla
+				mongol = Korla
+				turkish = Korla
+				karluk = Korla
 			}
 			b_bugur_karashar = {
 				chinese = Luntai
 				uighur = Bugur
+				mongol = Bugur
+				turkish = Bugur
+				karluk = Bugur
 			}
 		}
 	}

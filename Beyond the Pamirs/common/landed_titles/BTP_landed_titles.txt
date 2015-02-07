@@ -7,6 +7,7 @@ k_tarim = {
 	mongol = Dorbenshahr
 	turkish = Dorbenshahr
 	karluk = Dorbenshahr
+	tibetan = Tho-dkhar
 	
 	capital = 1438 # Kashgar
 	
@@ -19,6 +20,8 @@ k_tarim = {
 		mongol = Qeshqer
 		turkish = Qeshqer
 		karluk = Qeshqer
+		tibetan = Su-lig
+		tokharian = Kasake
 		
 		c_kashgar = {
 			color= { 50 0 25 }
@@ -29,6 +32,8 @@ k_tarim = {
 			mongol = Qeshqer
 			turkish = Qeshqer
 			karluk = Qeshqer
+			tibetan = Su-lig
+			tokharian = Kasake
 			
 			b_kashgar_kashgar = {
 				chinese = Shule
@@ -36,6 +41,8 @@ k_tarim = {
 				mongol = Qeshqer
 				turkish = Qeshqer
 				karluk = Qeshqer
+				tibetan = Su-lig
+				tokharian = Kasake
 			}
 			b_tumshuq_kashgar = {
 				chinese = Tumushuke
@@ -89,6 +96,7 @@ k_tarim = {
 			mongol = Kuchar
 			turkish = Kuchar
 			karluk = Kuchar
+			tokharian = Kusi
 			
 			b_kucha_kucha = {
 				chinese = Qiuci
@@ -96,6 +104,7 @@ k_tarim = {
 				mongol = Kuchar
 				turkish = Kuchar
 				karluk = Kuchar
+				tokharian = Kusi
 			}
 			b_bay_kucha = {
 				chinese = Baicheng
@@ -135,6 +144,7 @@ k_tarim = {
 			mongol = Yeken
 			turkish = Yeken
 			karluk = Yeken
+			tibetan = Yer-khen
 			
 			b_yarkant_yarkant = {
 				chinese = Shache
@@ -142,6 +152,7 @@ k_tarim = {
 				mongol = Yeken
 				turkish = Yeken
 				karluk = Yeken
+				tibetan = Yer-khen
 			}
 			b_kargilik_yarkant = {
 				chinese = Yecheng
@@ -168,6 +179,8 @@ k_tarim = {
 		mongol = Hoten
 		turkish = Hoten
 		karluk = Hoten
+		tibetan = Li
+		khotanese = Hvam Ksira
 		
 		c_khotan = {
 			color= { 75 0 25 }
@@ -178,6 +191,8 @@ k_tarim = {
 			mongol = Hoten
 			turkish = Hoten
 			karluk = Hoten
+			tibetan = Hu-ten
+			khotanese = Hvamna
 			
 			b_khotan_khotan = {
 				chinese = Yutian
@@ -185,6 +200,8 @@ k_tarim = {
 				mongol = Hoten
 				turkish = Hoten
 				karluk = Hoten
+				tibetan = Hu-ten
+				khotanese = Hvamna
 			}
 			b_pishan_khotan = {
 				chinese = Pishan
@@ -307,6 +324,8 @@ k_tarim = {
 			mongol = Qarashahr
 			turkish = Qarashahr
 			karluk = Qarashahr
+			tokharian = Akni
+			khotanese = Argi
 			
 			b_karashar_karashar = {
 				chinese = Yanqi
@@ -314,6 +333,8 @@ k_tarim = {
 				mongol = Qarashahr
 				turkish = Qarashahr
 				karluk = Qarashahr
+				tokharian = Akni
+				khotanese = Argi
 			}
 			b_korla_karashar = {
 				chinese = Kuerle

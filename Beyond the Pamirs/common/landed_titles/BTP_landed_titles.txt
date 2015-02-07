@@ -3,6 +3,7 @@ k_tarim = {
 	color2= { 255 255 255 }
 	
 	chinese = Anxi
+	uighur = Dorbenshahr
 	
 	capital = 1438 # Kashgar
 	
@@ -11,33 +12,42 @@ k_tarim = {
 		color2= { 255 255 255 }
 		
 		chinese = Shule
+		uighur = Qeshqer
 		
 		c_kashgar = {
 			color= { 50 0 25 }
 			color2= { 255 255 255 }
 			
 			chinese = Shule
+			uighur = Qeshqer
 			
 			b_kashgar_kashgar = {
 				chinese = Shule
+				uighur = Qeshqer
 			}
 			b_tumshuq_kashgar = {
 				chinese = Tumushuke
+				uighur = Tumshuq
 			}
 			b_yengishiher_kashgar = {
 				chinese = Shule
+				uighur = Yengisheher
 			}
 			b_payzawat_kashgar = {
 				chinese = Jiashi
+				uighur = Peyzivat
 			}
 			b_artush_kashgar = {
-				chinese = Atuchi
+				chinese = Atushi
+				uighur = Atush
 			}
 			b_yopurga_kashgar = {
 				chinese = Yuepuhu
+				uighur = Yopurgha
 			}
 			b_sheher_kashgar = {
 				chinese = Shufu
+				uighur = Sheher
 			}
 		}
 		c_kucha = {
@@ -45,21 +55,27 @@ k_tarim = {
 			color2= { 255 255 255 }
 			
 			chinese = Qiuci
+			uighur = Kuchar
 			
 			b_kucha_kucha = {
 				chinese = Qiuci
+				uighur = Kuchar
 			}
 			b_bay_kucha = {
 				chinese = Baicheng
+				uighur = Bay
 			}
 			b_aqsu_kucha = {
 				chinese = Akesu
+				uighur = Aqsu
 			}
 			b_kumtura_kucha = {
 				chinese = Kumutula
+				uighur = Qumtura
 			}
 			b_kizyl_kucha = {
 				chinese = Kezier
+				uighur = Kizil
 			}
 		}
 		c_yarkant = {
@@ -67,15 +83,19 @@ k_tarim = {
 			color2= { 255 255 255 }
 			
 			chinese = Shache
+			uighur = Yeken
 			
 			b_yarkant_yarkant = {
 				chinese = Shache
+				uighur = Yeken
 			}
 			b_kargilik_yarkant = {
 				chinese = Yecheng
+				uighur = Qaghiliq
 			}
 			b_tashkurgan_yarkant = {
 				chinese = Tashikuergan
+				uighur = Tashqurqan
 			}
 		}
 	}
@@ -84,21 +104,26 @@ k_tarim = {
 		color2= { 255 255 255 }
 		
 		chinese = Yutian
+		uighur = Hoten
 		
 		c_khotan = {
 			color= { 75 0 25 }
 			color2= { 255 255 255 }
 			
 			chinese = Yutian
+			uighur = Hoten
 			
 			b_khotan_khotan = {
 				chinese = Yutian
+				uighur = Hoten
 			}
 			b_pishan_khotan = {
 				chinese = Pishan
+				uighur = Guma
 			}
 			b_karakash_khotan = {
 				chinese = Moyu
+				uighur = Qaraqash
 			}
 		}
 		c_niya = {
@@ -106,12 +131,15 @@ k_tarim = {
 			color2= { 255 255 255 }
 			
 			chinese = Minfeng
+			uighur = Niye
 			
 			b_niya_niya = {
 				chinese = Minfeng
+				uighur = Niye
 			}
 			b_keriya_niya = {
 				chinese = Yutian
+				uighur = Keriye
 			}
 		}
 		c_qarqan = {
@@ -119,9 +147,11 @@ k_tarim = {
 			color2= { 255 255 255 }
 			
 			chinese = Qiemo
+			uighur = Cherchen
 			
 			b_qarqan_qarqan = {
 				chinese = Qiemo
+				uighur = Cherchen
 			}
 		}
 	}
@@ -130,18 +160,22 @@ k_tarim = {
 		color2= { 255 255 255 }
 		
 		chinese = Shanshan
+		uighur = Pichan
 		
 		c_miran = {
 			color= { 100 0 25 }
 			color2= { 255 255 255 }
 			
 			chinese = Yuni
+			uighur = Miran
 			
 			b_miran_miran = {
 				chinese = Yuni
+				uighur = Miran
 			}
 			b_qakilik_miran = {
 				chinese = Ruoqiang
+				uighur = Chaqiliq
 			}
 		}
 		c_kroran = {
@@ -149,9 +183,11 @@ k_tarim = {
 			color2= { 255 255 255 }
 			
 			chinese = Loulan
+			uighur = Kroran
 			
 			b_kroran_kroran = {
 				chinese = Loulan
+				uighur = Kroran
 			}
 		}
 		c_karashar = {
@@ -159,15 +195,19 @@ k_tarim = {
 			color2= { 255 255 255 }
 			
 			chinese = Yanqi
+			uighur = Qarashahr
 			
 			b_karashar_karashar = {
 				chinese = Yanqi
+				uighur = Qarashahr
 			}
 			b_korla_karashar = {
 				chinese = Kuerle
+				uighur = Korla
 			}
 			b_bugur_karashar = {
 				chinese = Luntai
+				uighur = Bugur
 			}
 		}
 	}

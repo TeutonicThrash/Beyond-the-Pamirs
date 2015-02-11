@@ -16,8 +16,14 @@ b_sheher_kashgar = castle
 
 
 # Misc
-culture = tokharian
+culture = khotanese
 religion = buddhist
 
 # History
 # Can be filled when things change around the province
+980.1.1 = {
+	religion = sunni
+}
+1005.1.1 = {
+	culture = karluk
+}

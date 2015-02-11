@@ -13,7 +13,7 @@ b_karakash_khotan = temple
 
 
 # Misc
-culture = tokharian
+culture = khotanese
 religion = buddhist
 
 # History

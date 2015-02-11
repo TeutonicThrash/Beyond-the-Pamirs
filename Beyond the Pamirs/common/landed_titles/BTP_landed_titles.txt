@@ -356,28 +356,81 @@ k_tarim = {
 		color= { 70 10 25 }
 		color2= { 255 255 255 }
 		
+		chinese = "Xizhou"
+		uighur = "Turpan"
+		mongol = "Turpan"
+		turkish = "Turpan"
+		karluk = "Turpan"
+		
 		c_turpan = {
 			color= { 65 15 25 }
 			color2= { 255 255 255 }
 			
+			chinese = "Xizhou"
+			uighur = "Turpan"
+			mongol = "Turpan"
+			turkish = "Turpan"
+			karluk = "Turpan"
+			
 			b_turpan_turpan = {
+				chinese = "Xizhou"
+				uighur = "Turpan"
+				mongol = "Turpan"
+				turkish = "Turpan"
+				karluk = "Turpan"
 			}
 			b_qocho_turpan = {
+				chinese = "Gaochang"
+				uighur = "Qocho"
+				mongol = "Qocho"
+				turkish = "Qocho"
+				karluk = "Qocho"
 			}
 			b_bezeklik_turpan = {
+				chinese = "Bozikeli"
+				uighur = "Bezeklik"
+				mongol = "Bezeklik"
+				turkish = "Bezeklik"
+				karluk = "Bezeklik"
 			}
 			b_yarkhoto_turpan = {
+				chinese = "Jiaohe"
+				uighur = "Yarkhoto"
+				mongol = "Yarkhoto"
+				turkish = "Yarkhoto"
+				karluk = "Yarkhoto"
 			}
 		}
 		c_kumul = {
 			color= { 60 20 25 }
 			color2= { 255 255 255 }
 			
+			chinese = "Yi Zhou"
+			uighur = "Qumul"
+			mongol = "Qumul"
+			turkish = "Qumul"
+			karluk = "Qumul"
+			
 			b_kumul_kumul = {
+				chinese = "Yi Zhou"
+				uighur = "Qumul"
+				mongol = "Qumul"
+				turkish = "Qumul"
+				karluk = "Qumul"
 			}
 			b_yiwu_kumul = {
+				chinese = "Yiwu"
+				uighur = "Ara Turuk"
+				mongol = "Ara Turuk"
+				turkish = "Ara Turuk"
+				karluk = "Ara Turuk"
 			}
 			b_barkol_kumul = {
+				chinese = "Balikun"
+				uighur = "Barkol"
+				mongol = "Barkol"
+				turkish = "Barkol"
+				karluk = "Barkol"
 			}
 		}
 	}

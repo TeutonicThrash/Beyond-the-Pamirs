@@ -1,0 +1,20 @@
+# 1448 - Kumul
+# County Title
+title = c_kumul
+
+# Settlements
+max_settlements = 3
+b_kumul_kumul = castle
+b_yiwu_kumul = city
+b_barkol_kumul = temple
+
+
+# Possible baronies: (Always add a # in front of a line with these!)
+
+
+# Misc
+culture = tokharian
+religion = buddhist
+
+# History
+# Can be filled when things change around the province

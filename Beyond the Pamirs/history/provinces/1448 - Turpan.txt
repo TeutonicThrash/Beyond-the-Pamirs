@@ -1,0 +1,21 @@
+# 1448 - Turpan
+# County Title
+title = c_turpan
+
+# Settlements
+max_settlements = 4
+b_turpan_turpan = castle
+b_qocho_turpan = city
+b_bezeklik_turpan = temple
+b_yarkhoto_turpan = city
+
+
+# Possible baronies: (Always add a # in front of a line with these!)
+
+
+# Misc
+culture = tokharian
+religion = buddhist
+
+# History
+# Can be filled when things change around the province

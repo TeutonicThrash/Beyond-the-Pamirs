@@ -2,12 +2,12 @@ k_tarim = {
 	color= { 50 0 50 }
 	color2= { 255 255 255 }
 	
-	chinese = Anxi
-	uighur = Dorbenshahr
-	mongol = Dorbenshahr
-	turkish = Dorbenshahr
-	karluk = Dorbenshahr
-	tibetan = Tho-dkhar
+	chinese = "Anxi"
+	uighur = "Dorbenshahr"
+	mongol = "Dorbenshahr"
+	turkish = "Dorbenshahr"
+	karluk = "Dorbenshahr"
+	tibetan = "Tho-dkhar"
 	
 	capital = 1438 # Kashgar
 	
@@ -15,117 +15,117 @@ k_tarim = {
 		color= { 50 0 25 }
 		color2= { 255 255 255 }
 		
-		chinese = Shule
-		uighur = Qeshqer
-		mongol = Qeshqer
-		turkish = Qeshqer
-		karluk = Qeshqer
-		tibetan = Su-lig
-		tokharian = Kasake
+		chinese = "Shule"
+		uighur = "Qeshqer"
+		mongol = "Qeshqer"
+		turkish = "Qeshqer"
+		karluk = "Qeshqer"
+		tibetan = "Su-lig"
+		tokharian = "Kasake"
 		
 		c_kashgar = {
 			color= { 50 0 25 }
 			color2= { 255 255 255 }
 			
-			chinese = Shule
-			uighur = Qeshqer
-			mongol = Qeshqer
-			turkish = Qeshqer
-			karluk = Qeshqer
-			tibetan = Su-lig
-			tokharian = Kasake
+			chinese = "Shule"
+			uighur = "Qeshqer"
+			mongol = "Qeshqer"
+			turkish = "Qeshqer"
+			karluk = "Qeshqer"
+			tibetan = "Su-lig"
+			tokharian = "Kasake"
 			
 			b_kashgar_kashgar = {
-				chinese = Shule
-				uighur = Qeshqer
-				mongol = Qeshqer
-				turkish = Qeshqer
-				karluk = Qeshqer
-				tibetan = Su-lig
-				tokharian = Kasake
+				chinese = "Shule"
+				uighur = "Qeshqer"
+				mongol = "Qeshqer"
+				turkish = "Qeshqer"
+				karluk = "Qeshqer"
+				tibetan = "Su-lig"
+				tokharian = "Kasake"
 			}
 			b_tumshuq_kashgar = {
-				chinese = Tumushuke
-				uighur = Tumshuq
-				mongol = Tumshuq
-				turkish = Tumshuq
-				karluk = Tumshuq
+				chinese = "Tumushuke"
+				uighur = "Tumshuq"
+				mongol = "Tumshuq"
+				turkish = "Tumshuq"
+				karluk = "Tumshuq"
 			}
 			b_yengishiher_kashgar = {
-				chinese = Shule
-				uighur = Yengisheher
-				mongol = Yengisheher
-				turkish = Yengisheher
-				karluk = Yengisheher
+				chinese = "Shule"
+				uighur = "Yengisheher"
+				mongol = "Yengisheher"
+				turkish = "Yengisheher"
+				karluk = "Yengisheher"
 			}
 			b_payzawat_kashgar = {
-				chinese = Jiashi
-				uighur = Peyzivat
-				mongol = Peyzivat
-				turkish = Peyzivat
-				karluk = Peyzivat
+				chinese = "Jiashi"
+				uighur = "Peyzivat"
+				mongol = "Peyzivat"
+				turkish = "Peyzivat"
+				karluk = "Peyzivat"
 			}
 			b_artush_kashgar = {
-				chinese = Atushi
-				uighur = Atush
-				mongol = Atush
-				turkish = Atush
-				karluk = Atush
+				chinese = "Atushi"
+				uighur = "Atush"
+				mongol = "Atush"
+				turkish = "Atush"
+				karluk = "Atush"
 			}
 			b_yopurga_kashgar = {
-				chinese = Yuepuhu
-				uighur = Yopurgha
-				mongol = Yopurgha
-				turkish = Yopurgha
-				karluk = Yopurgha
+				chinese = "Yuepuhu"
+				uighur = "Yopurgha"
+				mongol = "Yopurgha"
+				turkish = "Yopurgha"
+				karluk = "Yopurgha"
 			}
 			b_sheher_kashgar = {
-				chinese = Shufu
-				uighur = Sheher
-				mongol = Sheher
-				turkish = Sheher
-				karluk = Sheher
+				chinese = "Shufu"
+				uighur = "Sheher"
+				mongol = "Sheher"
+				turkish = "Sheher"
+				karluk = "Sheher"
 			}
 		}
 		c_kucha = {
 			color= { 60 10 25 }
 			color2= { 255 255 255 }
 			
-			chinese = Qiuci
-			uighur = Kuchar
-			mongol = Kuchar
-			turkish = Kuchar
-			karluk = Kuchar
-			tokharian = Kusi
+			chinese = "Qiuci"
+			uighur = "Kuchar"
+			mongol = "Kuchar"
+			turkish = "Kuchar"
+			karluk = "Kuchar"
+			tokharian = "Kusi"
 			
 			b_kucha_kucha = {
-				chinese = Qiuci
-				uighur = Kuchar
-				mongol = Kuchar
-				turkish = Kuchar
-				karluk = Kuchar
-				tokharian = Kusi
+				chinese = "Qiuci"
+				uighur = "Kuchar"
+				mongol = "Kuchar"
+				turkish = "Kuchar"
+				karluk = "Kuchar"
+				tokharian = "Kusi"
 			}
 			b_bay_kucha = {
-				chinese = Baicheng
-				uighur = Bay
-				mongol = Bay
-				turkish = Bay
-				karluk = Bay
+				chinese = "Baicheng"
+				uighur = "Bay"
+				mongol = "Bay"
+				turkish = "Bay"
+				karluk = "Bay"
 			}
 			b_aqsu_kucha = {
-				chinese = Akesu
-				uighur = Aqsu
-				mongol = Aqsu
-				turkish = Aqsu
-				karluk = Aqsu
+				chinese = "Akesu"
+				uighur = "Aqsu"
+				mongol = "Aqsu"
+				turkish = "Aqsu"
+				karluk = "Aqsu"
 			}
 			b_kumtura_kucha = {
-				chinese = Kumutula
-				uighur = Qumtura
-				mongol = Qumtura
-				turkish = Qumtura
-				karluk = Qumtura
+				chinese = "Kumutula"
+				uighur = "Qumtura"
+				mongol = "Qumtura"
+				turkish = "Qumtura"
+				karluk = "Qumtura"
 			}
 			b_kizyl_kucha = {
 				chinese = Kezier
@@ -139,34 +139,34 @@ k_tarim = {
 			color= { 40 0 15 }
 			color2= { 255 255 255 }
 			
-			chinese = Shache
-			uighur = Yeken
-			mongol = Yeken
-			turkish = Yeken
-			karluk = Yeken
-			tibetan = Yer-khen
+			chinese = "Shache"
+			uighur = "Yeken"
+			mongol = "Yeken"
+			turkish = "Yeken"
+			karluk = "Yeken"
+			tibetan = "Yer-khen"
 			
 			b_yarkant_yarkant = {
-				chinese = Shache
-				uighur = Yeken
-				mongol = Yeken
-				turkish = Yeken
-				karluk = Yeken
-				tibetan = Yer-khen
+				chinese = "Shache"
+				uighur = "Yeken"
+				mongol = "Yeken"
+				turkish = "Yeken"
+				karluk = "Yeken"
+				tibetan = "Yer-khen"
 			}
 			b_kargilik_yarkant = {
-				chinese = Yecheng
-				uighur = Qaghiliq
-				mongol = Qaghiliq
-				turkish = Qaghiliq
-				karluk = Qaghiliq
+				chinese = "Yecheng"
+				uighur = "Qaghiliq"
+				mongol = "Qaghiliq"
+				turkish = "Qaghiliq"
+				karluk = "Qaghiliq"
 			}
 			b_tashkurgan_yarkant = {
-				chinese = Tashikuergan
-				uighur = Tashqurqan
-				mongol = Tashqurqan
-				turkish = Tashqurqan
-				karluk = Tashqurqan
+				chinese = "Tashikuergan"
+				uighur = "Tashqurqan"
+				mongol = "Tashqurqan"
+				turkish = "Tashqurqan"
+				karluk = "Tashqurqan"
 			}
 		}
 	}
@@ -174,91 +174,91 @@ k_tarim = {
 		color= { 75 0 25 }
 		color2= { 255 255 255 }
 		
-		chinese = Yutian
-		uighur = Hoten
-		mongol = Hoten
-		turkish = Hoten
-		karluk = Hoten
-		tibetan = Li
-		khotanese = Hvam Ksira
+		chinese = "Yutian"
+		uighur = "Hoten"
+		mongol = "Hoten"
+		turkish = "Hoten"
+		karluk = "Hoten"
+		tibetan = "Li"
+		khotanese = "Hvam Ksira"
 		
 		c_khotan = {
 			color= { 75 0 25 }
 			color2= { 255 255 255 }
 			
-			chinese = Yutian
-			uighur = Hoten
-			mongol = Hoten
-			turkish = Hoten
-			karluk = Hoten
-			tibetan = Hu-ten
-			khotanese = Hvamna
+			chinese = "Yutian"
+			uighur = "Hoten"
+			mongol = "Hoten"
+			turkish = "Hoten"
+			karluk = "Hoten"
+			tibetan = "Hu-ten"
+			khotanese = "Hvamna"
 			
 			b_khotan_khotan = {
-				chinese = Yutian
-				uighur = Hoten
-				mongol = Hoten
-				turkish = Hoten
-				karluk = Hoten
-				tibetan = Hu-ten
-				khotanese = Hvamna
+				chinese = "Yutian"
+				uighur = "Hoten"
+				mongol = "Hoten"
+				turkish = "Hoten"
+				karluk = "Hoten"
+				tibetan = "Hu-ten"
+				khotanese = "Hvamna"
 			}
 			b_pishan_khotan = {
-				chinese = Pishan
-				uighur = Guma
-				mongol = Guma
-				turkish = Guma
-				karluk = Guma
+				chinese = "Pishan"
+				uighur = "Guma"
+				mongol = "Guma"
+				turkish = "Guma"
+				karluk = "Guma"
 			}
 			b_karakash_khotan = {
-				chinese = Moyu
-				uighur = Qaraqash
-				mongol = Qaraqash
-				turkish = Qaraqash
-				karluk = Qaraqash
+				chinese = "Moyu"
+				uighur = "Qaraqash"
+				mongol = "Qaraqash"
+				turkish = "Qaraqash"
+				karluk = "Qaraqash"
 			}
 		}
 		c_niya = {
 			color= { 85 10 25 }
 			color2= { 255 255 255 }
 			
-			chinese = Minfeng
-			uighur = Niye
-			mongol = Niye
-			turkish = Niye
-			karluk = Niye
+			chinese = "Minfeng"
+			uighur = "Niye"
+			mongol = "Niye"
+			turkish = "Niye"
+			karluk = "Niye"
 			
 			b_niya_niya = {
-				chinese = Minfeng
-				uighur = Niye
-				mongol = Niye
-				turkish = Niye
-				karluk = Niye
+				chinese = "Minfeng"
+				uighur = "Niye"
+				mongol = "Niye"
+				turkish = "Niye"
+				karluk = "Niye"
 			}
 			b_keriya_niya = {
-				chinese = Yutian
-				uighur = Keriye
-				mongol = Keriye
-				turkish = Keriye
-				karluk = Keriye
+				chinese = "Yutian"
+				uighur = "Keriye"
+				mongol = "Keriye"
+				turkish = "Keriye"
+				karluk = "Keriye"
 			}
 		}
 		c_qarqan = {
 			color= { 65 0 15 }
 			color2= { 255 255 255 }
 			
-			chinese = Qiemo
-			uighur = Cherchen
-			mongol = Cherchen
-			turkish = Cherchen
-			karluk = Cherchen
+			chinese = "Qiemo"
+			uighur = "Cherchen"
+			mongol = "Cherchen"
+			turkish = "Cherchen"
+			karluk = "Cherchen"
 			
 			b_qarqan_qarqan = {
-				chinese = Qiemo
-				uighur = Cherchen
-				mongol = Cherchen
-				turkish = Cherchen
-				karluk = Cherchen
+				chinese = "Qiemo"
+				uighur = "Cherchen"
+				mongol = "Cherchen"
+				turkish = "Cherchen"
+				karluk = "Cherchen"
 			}
 		}
 	}
@@ -266,89 +266,89 @@ k_tarim = {
 		color= { 100 0 25 }
 		color2= { 255 255 255 }
 		
-		chinese = Shanshan
-		uighur = Pichan
-		mongol = Pichan
-		turkish = Pichan
-		karluk = Pichan
+		chinese = "Shanshan"
+		uighur = "Pichan"
+		mongol = "Pichan"
+		turkish = "Pichan"
+		karluk = "Pichan"
 		
 		c_miran = {
 			color= { 100 0 25 }
 			color2= { 255 255 255 }
 			
-			chinese = Yuni
-			uighur = Miran
-			mongol = Miran
-			turkish = Miran
-			karluk = Miran
+			chinese = "Yuni"
+			uighur = "Miran"
+			mongol = "Miran"
+			turkish = "Miran"
+			karluk = "Miran"
 			
 			b_miran_miran = {
-				chinese = Yuni
-				uighur = Miran
-				mongol = Miran
-				turkish = Miran
-				karluk = Miran
+				chinese = "Yuni"
+				uighur = "Miran"
+				mongol = "Miran"
+				turkish = "Miran"
+				karluk = "Miran"
 			}
 			b_qakilik_miran = {
-				chinese = Ruoqiang
-				uighur = Chaqiliq
-				mongol = Chaqiliq
-				turkish = Chaqiliq
-				karluk = Chaqiliq
+				chinese = "Ruoqiang"
+				uighur = "Chaqiliq"
+				mongol = "Chaqiliq"
+				turkish = "Chaqiliq"
+				karluk = "Chaqiliq"
 			}
 		}
 		c_kroran = {
 			color= { 90 10 15 }
 			color2= { 255 255 255 }
 			
-			chinese = Loulan
-			uighur = Kroran
-			mongol = Kroran
-			turkish = Kroran
-			karluk = Kroran
+			chinese = "Loulan"
+			uighur = "Kroran"
+			mongol = "Kroran"
+			turkish = "Kroran"
+			karluk = "Kroran"
 			
 			b_kroran_kroran = {
-				chinese = Loulan
-				uighur = Kroran
-				mongol = Kroran
-				turkish = Kroran
-				karluk = Kroran
+				chinese = "Loulan"
+				uighur = "Kroran"
+				mongol = "Kroran"
+				turkish = "Kroran"
+				karluk = "Kroran"
 			}
 		}
 		c_karashar = {
 			color= { 90 20 35 }
 			color2= { 255 255 255 }
 			
-			chinese = Yanqi
-			uighur = Qarashahr
-			mongol = Qarashahr
-			turkish = Qarashahr
-			karluk = Qarashahr
-			tokharian = Akni
-			khotanese = Argi
+			chinese = "Yanqi"
+			uighur = "Qarashahr"
+			mongol = "Qarashahr"
+			turkish = "Qarashahr"
+			karluk = "Qarashahr"
+			tokharian = "Akni"
+			khotanese = "Argi"
 			
 			b_karashar_karashar = {
-				chinese = Yanqi
-				uighur = Qarashahr
-				mongol = Qarashahr
-				turkish = Qarashahr
-				karluk = Qarashahr
-				tokharian = Akni
-				khotanese = Argi
+				chinese = "Yanqi"
+				uighur = "Qarashahr"
+				mongol = "Qarashahr"
+				turkish = "Qarashahr"
+				karluk = "Qarashahr"
+				tokharian = "Akni"
+				khotanese = "Argi"
 			}
 			b_korla_karashar = {
-				chinese = Kuerle
-				uighur = Korla
-				mongol = Korla
-				turkish = Korla
-				karluk = Korla
+				chinese = "Kuerle"
+				uighur = "Korla"
+				mongol = "Korla"
+				turkish = "Korla"
+				karluk = "Korla"
 			}
 			b_bugur_karashar = {
-				chinese = Luntai
-				uighur = Bugur
-				mongol = Bugur
-				turkish = Bugur
-				karluk = Bugur
+				chinese = "Luntai"
+				uighur = "Bugur"
+				mongol = "Bugur"
+				turkish = "Bugur"
+				karluk = "Bugur"
 			}
 		}
 	}

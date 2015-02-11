@@ -352,4 +352,33 @@ k_tarim = {
 			}
 		}
 	}
+	d_turpan = {
+		color= { 70 10 25 }
+		color2= { 255 255 255 }
+		
+		c_turpan = {
+			color= { 65 15 25 }
+			color2= { 255 255 255 }
+			
+			b_turpan_turpan = {
+			}
+			b_qocho_turpan = {
+			}
+			b_bezeklik_turpan = {
+			}
+			b_yarkhoto_turpan = {
+			}
+		}
+		c_kumul = {
+			color= { 60 20 25 }
+			color2= { 255 255 255 }
+			
+			b_kumul_kumul = {
+			}
+			b_yiwu_kumul = {
+			}
+			b_barkol_kumul = {
+			}
+		}
+	}
 }

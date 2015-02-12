@@ -16,3 +16,6 @@ religion = buddhist
 
 # History
 # Can be filled when things change around the province
+1230.1.1 = {
+	culture = uighur
+}

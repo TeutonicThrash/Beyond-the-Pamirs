@@ -27,3 +27,6 @@ religion = buddhist
 1005.1.1 = {
 	culture = karluk
 }
+1230.1.1 = {
+	culture = uighur
+}

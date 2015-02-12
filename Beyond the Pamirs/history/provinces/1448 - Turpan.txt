@@ -14,8 +14,11 @@ b_yarkhoto_turpan = city
 
 
 # Misc
-culture = tokharian
+culture = chinese
 religion = buddhist
 
 # History
 # Can be filled when things change around the province
+860.1.1 = {
+	culture = uighur
+}

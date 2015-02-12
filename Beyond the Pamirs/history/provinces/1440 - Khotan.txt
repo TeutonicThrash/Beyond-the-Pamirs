@@ -18,3 +18,9 @@ religion = buddhist
 
 # History
 # Can be filled when things change around the province
+1080.1.1 = {
+	religion = sunni
+}
+1230.1.1 = {
+	culture = uighur
+}

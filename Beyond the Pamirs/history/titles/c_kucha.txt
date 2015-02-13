@@ -1,3 +1,22 @@
+1080.1.1 = {
+	holder = 144107 # Ebu Ali el-Hasan
+	liege = d_zhetysu
+}
+1102.1.1={
+	holder=144114 # Ahmad
+}
+1128.1.1={
+	holder=144115 # Ibrahim
+}
+1158.1.1={
+	holder=188855 # Muhammad
+}
+1188.1.1={
+	holder=188856 # Yusuf
+}
+1205.1.1={
+	holder=188857 # Muhammad
+}
 1220.1.1 = { # Genghis
 	holder = 125501
 	liege = e_mongol_empire
